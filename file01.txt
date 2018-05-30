@@ -1,1 +1,2 @@
-entendendo o git hoje
+entendendo o git hoje. 
+estou alterando para realizar um git reset
