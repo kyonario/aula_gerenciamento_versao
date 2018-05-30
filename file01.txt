@@ -1,2 +1,6 @@
 entendendo o git hoje. 
 estou alterando para realizar um git reset
+
+diferença entre o pull e fetch
+
+traz os commits do repositório remoto para o local (não altera)
