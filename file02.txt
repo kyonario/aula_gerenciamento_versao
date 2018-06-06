@@ -1,1 +1,5 @@
-entendendo o git amanhã
+entendendo o git amanhã.
+
+Faça uma alteração no arquivo file02.txt
+Dê um commit no arquivo
+ Envie a branch hotfix01para o repositório remoto
